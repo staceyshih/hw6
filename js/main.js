@@ -1,5 +1,4 @@
-
-<src="https://www.gstatic.com/firebasejs/live/3.0/firebase.js">
+src="https://www.gstatic.com/firebasejs/live/3.0/firebase.js"
 
 //Initialize Firebase
   var config = {
